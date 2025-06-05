@@ -4,6 +4,9 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/.venv1" />
+      <excludeFolder url="file://$MODULE_DIR$/Project4 - Custom Object Detection by training haarcascade model/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Project4 - Custom Object Detection by training haarcascade model/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Project4 - Custom Object Detection by training haarcascade model/Data" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.13 ([01] Basic learnings)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
