@@ -1,5 +1,5 @@
 Lib
 Scripts
 share
-*.TAG
-*.cfg
+*CACHEDIR.TAG
+*pyvenv.cfg
