@@ -1,5 +1,5 @@
 Lib
 Scripts
 share
-CACHEDIR
-pyvenv
+CACHEDIR.TAG
+pyvenv.cfg
