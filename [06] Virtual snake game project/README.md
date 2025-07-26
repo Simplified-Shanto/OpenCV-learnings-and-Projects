@@ -1,5 +1,7 @@
 ### Project Video: 
 [Watch the video on YouTube](https://youtu.be/GbdaBI-mwWI?si=GTJ2RjQ-eD2ZV8va)
+
+### Demo Photo: 
 <img width="1329" height="778" alt="image" src="https://github.com/user-attachments/assets/ba022ec2-de03-4703-91d9-c715584ea44f" />
 
 ### Visual Game Logic
