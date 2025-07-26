@@ -1,5 +1,5 @@
 ---
-Project Video: 
+Project Video
 https://github.com/user-attachments/assets/3bf8d000-14c9-4e2f-9b06-43f756de17ce
 
 ### 🧮 Measuring the Angle Between Three Points in 2D
