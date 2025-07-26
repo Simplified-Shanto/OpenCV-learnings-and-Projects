@@ -1,5 +1,6 @@
 ### Project Video: 
 [Watch the video on YouTube](https://youtu.be/GbdaBI-mwWI?si=GTJ2RjQ-eD2ZV8va)
+<img width="1329" height="778" alt="image" src="https://github.com/user-attachments/assets/ba022ec2-de03-4703-91d9-c715584ea44f" />
 
 ### Visual Game Logic
 <img width="802" height="457" alt="Snake game using openCV logic" src="https://github.com/user-attachments/assets/d310af04-0832-42ba-8a53-49cf301f66e2" />
