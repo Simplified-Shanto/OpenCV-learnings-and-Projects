@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08ef0e2b-1ddb-4494-a039-308b35180403" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Donut.png" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/[02] Virtual snake game/Donut.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FingerCounter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lanes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/[03] Road lane marking project/Lanes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[07] Road lane marking project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/[02] Virtual snake game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/[02] Virtual snake game/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/[03] Road lane marking project/test2.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/[03] Road lane marking project/test_image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[07] Road lane marking project/Cpractise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[07] Road lane marking project/Lanes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[07] Road lane marking project/cpractise.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="30HEGamYf4JhmCgUETlZS4Q0Xio" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.FingerCounter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lanes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.activate_this.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/islam/OneDrive/Manual Anki Backups/OneDrive/Documents/GitHub/OpenCV-learnings-and-Projects/[06] Virtual snake game and finger counter project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\islam\OneDrive\Manual Anki Backups\OneDrive\Documents\GitHub\OpenCV-learnings-and-Projects\[06] Multiple projects under same venv\[03] Road lane marking project" />
+      <recent name="C:\Users\islam\OneDrive\Manual Anki Backups\OneDrive\Documents\GitHub\OpenCV-learnings-and-Projects\[06] Virtual snake game and finger counter project\[02] Virtual snake game" />
+      <recent name="C:\Users\islam\OneDrive\Manual Anki Backups\OneDrive\Documents\GitHub\OpenCV-learnings-and-Projects\[06] Virtual snake game and finger counter project" />
+      <recent name="C:\Users\islam\OneDrive\Manual Anki Backups\OneDrive\Documents\GitHub\OpenCV-learnings-and-Projects\Virtual snake game project" />
+      <recent name="C:\Users\islam\OneDrive\Manual Anki Backups\OneDrive\Documents\GitHub\OpenCV-learnings-and-Projects\Virtual snake game project\.venv" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08ef0e2b-1ddb-4494-a039-308b35180403" name="Changes" comment="" />
+      <created>1753276002959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753276002959</updated>
+    </task>
+    <servers />
+  </component>
+</project>
