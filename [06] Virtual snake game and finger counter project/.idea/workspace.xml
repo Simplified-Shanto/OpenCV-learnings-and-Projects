@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08ef0e2b-1ddb-4494-a039-308b35180403" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Donut.png" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/[02] Virtual snake game/Donut.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FingerCounter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lanes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/[03] Road lane marking project/Lanes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[07] Road lane marking project/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/[02] Virtual snake game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/[02] Virtual snake game/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/[03] Road lane marking project/test2.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../[06] Multiple projects under same venv/[03] Road lane marking project/test_image.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[07] Road lane marking project/Cpractise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[07] Road lane marking project/Lanes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[07] Road lane marking project/cpractise.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,25 +28,31 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="30HEGamYf4JhmCgUETlZS4Q0Xio" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.FingerCounter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lanes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.activate_this.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/islam/OneDrive/Manual Anki Backups/OneDrive/Documents/GitHub/OpenCV-learnings-and-Projects/[06] Virtual snake game and finger counter project&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.FingerCounter.executor": "Run",
+    "Python.Lanes.executor": "Run",
+    "Python.PoseEstimationDemo.executor": "Run",
+    "Python.PoseEstimationMinimalCode.executor": "Run",
+    "Python.activate_this.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.poseModule.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/islam/OneDrive/Manual Anki Backups/OneDrive/Documents/GitHub/OpenCV-learnings-and-Projects/[06] Virtual snake game and finger counter project",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\islam\OneDrive\Manual Anki Backups\OneDrive\Documents\GitHub\OpenCV-learnings-and-Projects\[06] Multiple projects under same venv\[03] Road lane marking project" />
